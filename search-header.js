@@ -89,8 +89,6 @@ const DEFAULT_SEARCH_HEADER_VIEW_STYLE = {
         flexDirection: `row`,
         alignItems: `center`,
         justifyContent: `space-between`,
-        height: 56,
-        backgroundColor: `#fdfdfd`
     },
     action: {
         flexDirection: `row`,
